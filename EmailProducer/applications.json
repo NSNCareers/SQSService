@@ -1,0 +1,7 @@
+{
+  "AWS": {
+    "Profile": "VisualStudio",
+    "ProfilesLocation": "C:\\Users\\ajang\\.aws\\credentials",
+    "Region": "eu-west-2"
+  }
+}
